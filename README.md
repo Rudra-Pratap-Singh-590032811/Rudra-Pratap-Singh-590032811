@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi , I'm Rudra Pratap Singh
+- Computer Science Student
+- Exploring Graphic Design and Game Development
+- Learning C
 
-<!--
-**Rudra-Pratap-Singh-590032811/Rudra-Pratap-Singh-590032811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- C
+- HTML
+- CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Current Goals
+- Build Real Life projects
+- Learn and improving programming and graphic/gaming designing skills
+- Contribute to Open Source Projects
+
+
+## Connect with me
+- Linked In - https://www.linkedin.com/in/rudra-pratap-singh-740a16428?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Email - rudra.32811@stu.upes.ac.in
