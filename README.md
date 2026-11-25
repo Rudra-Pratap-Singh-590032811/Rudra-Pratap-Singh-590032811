@@ -1,4 +1,4 @@
-# Hi , I'm Rudra Pratap Singh
+# Hi , I'm Anmol Singh
 - Computer Science Student
 - Exploring Graphic Design and Game Development
 - Learning C
